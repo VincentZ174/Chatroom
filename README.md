@@ -8,6 +8,6 @@ Simple chatroom program built in Python 3.7.3 that allows up to 5 users to conne
 
 # Usage
 **Server Side** Python3 chatServer.py  
-\tThis starts up the server and listens for connections  
+&nbsp;&nbsp;&nbsp;&nbsp;This starts up the server and listens for connections  
 **Client Side** Python3 chatClient.py  
-\tThis starts up the client and asks you to enter the HOST IP and PORT to connect to  
+&nbsp;&nbsp;&nbsp;&nbsp;This starts up the client and asks you to enter the HOST IP and PORT to connect to  
