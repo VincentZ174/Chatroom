@@ -7,9 +7,9 @@ Simple chatroom program built in Python 3.7.3 that allows up to 5 users to conne
 - You will need PyCrypto and Tkinter for this to run
 
 # Usage
-**Server Side** Python3 chatServer.py  
+**Server Side** - `Python3 chatServer.py`
 - This starts up the server and listens for connections  
 
-**Client Side** Python3 chatClient.py  
+**Client Side** - `Python3 chatClient.py` 
 - This starts up the client and asks you to enter the HOST IP and PORT to connect to  
 
